@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Desktop</folder>
+	<filename>阿达尔伯特亲王.png</filename>
+	<path>C:/Users/Saki/Desktop/阿达尔伯特亲王.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1838</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>692</xmin>
+			<ymin>366</ymin>
+			<xmax>1301</xmax>
+			<ymax>1133</ymax>
+		</bndbox>
+	</object>
+</annotation>

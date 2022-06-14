@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ship</folder>
+	<filename>庞培·马格诺.png</filename>
+	<path>C:\Users\SongShuquan\Desktop\ship\庞培·马格诺.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2632</width>
+		<height>2942</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ship</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>851</xmin>
+			<ymin>1241</ymin>
+			<xmax>1312</xmax>
+			<ymax>2202</ymax>
+		</bndbox>
+	</object>
+</annotation>

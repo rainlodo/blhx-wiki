@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ship</folder>
+	<filename>扶桑·META.png</filename>
+	<path>D:\document\idea\blhx-wiki-mirai-plugin\data\blhx-wiki\image\ship\扶桑·META.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1981</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>681</xmin>
+			<ymin>716</ymin>
+			<xmax>1332</xmax>
+			<ymax>1478</ymax>
+		</bndbox>
+	</object>
+</annotation>

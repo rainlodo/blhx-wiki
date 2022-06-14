@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ship</folder>
+	<filename>明斯克.png</filename>
+	<path>D:\document\idea\blhx-wiki-mirai-plugin\data\blhx-wiki\image\ship\明斯克.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1380</width>
+		<height>1400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>357</xmin>
+			<ymin>215</ymin>
+			<xmax>1034</xmax>
+			<ymax>1279</ymax>
+		</bndbox>
+	</object>
+</annotation>

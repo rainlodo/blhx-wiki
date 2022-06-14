@@ -1,0 +1,26 @@
+<annotation>
+	<folder>新建文件夹</folder>
+	<filename>山城·META.png</filename>
+	<path>C:\Users\SongShuquan\Desktop\新建文件夹\山城·META.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2047</width>
+		<height>1706</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ship</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>750</xmin>
+			<ymin>393</ymin>
+			<xmax>1144</xmax>
+			<ymax>1038</ymax>
+		</bndbox>
+	</object>
+</annotation>

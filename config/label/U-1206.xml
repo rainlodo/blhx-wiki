@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ship</folder>
+	<filename>U-1206.png</filename>
+	<path>E:\Document\IDEA\untitled\data\ship\U-1206.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1904</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>549</xmin>
+			<ymin>557</ymin>
+			<xmax>1531</xmax>
+			<ymax>1471</ymax>
+		</bndbox>
+	</object>
+</annotation>

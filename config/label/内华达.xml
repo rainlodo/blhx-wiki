@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ship</folder>
+	<filename>内华达.png</filename>
+	<path>E:\Document\IDEA\untitled\data\ship\内华达.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1012</width>
+		<height>1022</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>207</xmin>
+			<ymin>55</ymin>
+			<xmax>773</xmax>
+			<ymax>834</ymax>
+		</bndbox>
+	</object>
+</annotation>

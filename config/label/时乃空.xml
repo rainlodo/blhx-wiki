@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ship</folder>
+	<filename>时乃空.png</filename>
+	<path>D:\document\idea\blhx-wiki-mirai-plugin\data\blhx-wiki\image\ship\时乃空.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1400</width>
+		<height>1363</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>497</xmin>
+			<ymin>311</ymin>
+			<xmax>976</xmax>
+			<ymax>1135</ymax>
+		</bndbox>
+	</object>
+</annotation>

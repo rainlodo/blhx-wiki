@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ship</folder>
+	<filename>伊13.png</filename>
+	<path>E:\Document\IDEA\untitled\data\ship\伊13.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1026</width>
+		<height>1004</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>177</xmin>
+			<ymin>52</ymin>
+			<xmax>771</xmax>
+			<ymax>930</ymax>
+		</bndbox>
+	</object>
+</annotation>

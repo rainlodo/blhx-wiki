@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Desktop</folder>
+	<filename>卡律布狄斯.png</filename>
+	<path>C:\Users\weimi\Desktop\卡律布狄斯.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>2030</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ship</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>624</xmin>
+			<ymin>95</ymin>
+			<xmax>1338</xmax>
+			<ymax>1386</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ship</folder>
+	<filename>俄克拉荷马.改.png</filename>
+	<path>D:\document\idea\blhx-wiki-mirai-plugin\data\blhx-wiki\image\ship\俄克拉荷马.改.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>697</width>
+		<height>1026</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>98</xmin>
+			<ymin>46</ymin>
+			<xmax>588</xmax>
+			<ymax>762</ymax>
+		</bndbox>
+	</object>
+</annotation>

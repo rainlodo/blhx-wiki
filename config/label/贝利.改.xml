@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ship</folder>
+	<filename>贝利.改.png</filename>
+	<path>D:\document\idea\blhx-wiki-mirai-plugin\data\blhx-wiki\image\ship\贝利.改.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>854</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>220</xmin>
+			<ymin>107</ymin>
+			<xmax>658</xmax>
+			<ymax>871</ymax>
+		</bndbox>
+	</object>
+</annotation>

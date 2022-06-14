@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ship</folder>
+	<filename>U-101.png</filename>
+	<path>E:\Document\IDEA\untitled\data\ship\U-101.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1026</width>
+		<height>1026</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>101</xmin>
+			<ymin>42</ymin>
+			<xmax>921</xmax>
+			<ymax>861</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>新建文件夹</folder>
+	<filename>喀琅施塔得.png</filename>
+	<path>G:\wei\program\labelimg\新建文件夹\喀琅施塔得.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1350</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ship</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>918</xmin>
+			<ymin>354</ymin>
+			<xmax>1232</xmax>
+			<ymax>754</ymax>
+		</bndbox>
+	</object>
+</annotation>

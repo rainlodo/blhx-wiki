@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ship</folder>
+	<filename>乌璐露.png</filename>
+	<path>D:\document\idea\blhx-wiki-mirai-plugin\data\blhx-wiki\image\ship\乌璐露.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1400</width>
+		<height>1180</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>336</xmin>
+			<ymin>65</ymin>
+			<xmax>1066</xmax>
+			<ymax>899</ymax>
+		</bndbox>
+	</object>
+</annotation>

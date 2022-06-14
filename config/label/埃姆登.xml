@@ -1,0 +1,26 @@
+<annotation>
+	<folder>123</folder>
+	<filename>埃姆登.png</filename>
+	<path>C:\Users\SongShuquan\Desktop\123\埃姆登.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ship</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>823</xmin>
+			<ymin>524</ymin>
+			<xmax>1218</xmax>
+			<ymax>1060</ymax>
+		</bndbox>
+	</object>
+</annotation>

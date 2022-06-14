@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ship</folder>
+	<filename>卡尔斯鲁厄.png</filename>
+	<path>D:\document\idea\blhx-wiki-mirai-plugin\data\blhx-wiki\image\ship\卡尔斯鲁厄.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>783</width>
+		<height>1026</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>76</xmin>
+			<ymin>1</ymin>
+			<xmax>622</xmax>
+			<ymax>790</ymax>
+		</bndbox>
+	</object>
+</annotation>

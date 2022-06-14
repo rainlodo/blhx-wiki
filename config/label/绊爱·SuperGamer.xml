@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ship</folder>
+	<filename>绊爱·SuperGamer.png</filename>
+	<path>D:\document\idea\blhx-wiki-mirai-plugin\data\blhx-wiki\image\ship\绊爱·SuperGamer.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>954</width>
+		<height>1026</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>212</xmin>
+			<ymin>75</ymin>
+			<xmax>763</xmax>
+			<ymax>758</ymax>
+		</bndbox>
+	</object>
+</annotation>

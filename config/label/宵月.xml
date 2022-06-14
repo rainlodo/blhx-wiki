@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ship</folder>
+	<filename>宵月.png</filename>
+	<path>D:\document\idea\blhx-wiki-mirai-plugin\data\blhx-wiki\image\ship\宵月.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>995</width>
+		<height>930</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>272</xmin>
+			<ymin>21</ymin>
+			<xmax>740</xmax>
+			<ymax>739</ymax>
+		</bndbox>
+	</object>
+</annotation>

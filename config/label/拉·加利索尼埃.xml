@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ship</folder>
+	<filename>拉·加利索尼埃.png</filename>
+	<path>D:\document\idea\blhx-wiki-mirai-plugin\data\blhx-wiki\image\ship\拉·加利索尼埃.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1784</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>535</xmin>
+			<ymin>364</ymin>
+			<xmax>1179</xmax>
+			<ymax>1177</ymax>
+		</bndbox>
+	</object>
+</annotation>

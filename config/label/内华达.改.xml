@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ship</folder>
+	<filename>内华达.改.png</filename>
+	<path>D:\document\idea\blhx-wiki-mirai-plugin\data\blhx-wiki\image\ship\内华达.改.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>798</width>
+		<height>1017</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>120</xmin>
+			<ymin>10</ymin>
+			<xmax>674</xmax>
+			<ymax>755</ymax>
+		</bndbox>
+	</object>
+</annotation>

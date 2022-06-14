@@ -1,0 +1,26 @@
+<annotation>
+	<folder>123</folder>
+	<filename>图林根.png</filename>
+	<path>C:\Users\SongShuquan\Desktop\123\图林根.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1298</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ship</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>910</xmin>
+			<ymin>153</ymin>
+			<xmax>1221</xmax>
+			<ymax>889</ymax>
+		</bndbox>
+	</object>
+</annotation>

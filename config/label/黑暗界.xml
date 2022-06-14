@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ship</folder>
+	<filename>黑暗界.png</filename>
+	<path>D:\document\idea\blhx-wiki-mirai-plugin\data\blhx-wiki\image\ship\黑暗界.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>874</width>
+		<height>1022</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>133</xmin>
+			<ymin>94</ymin>
+			<xmax>587</xmax>
+			<ymax>903</ymax>
+		</bndbox>
+	</object>
+</annotation>

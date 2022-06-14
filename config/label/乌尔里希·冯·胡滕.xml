@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ship</folder>
+	<filename>乌尔里希·冯·胡滕.png</filename>
+	<path>E:\Document\IDEA\untitled\data\ship\乌尔里希·冯·胡滕.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1619</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>589</xmin>
+			<ymin>745</ymin>
+			<xmax>1038</xmax>
+			<ymax>1390</ymax>
+		</bndbox>
+	</object>
+</annotation>

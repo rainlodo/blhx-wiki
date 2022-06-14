@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ship</folder>
+	<filename>陆奥.png</filename>
+	<path>D:\document\idea\blhx-wiki-mirai-plugin\data\blhx-wiki\image\ship\陆奥.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>693</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>342</xmin>
+			<ymin>141</ymin>
+			<xmax>664</xmax>
+			<ymax>663</ymax>
+		</bndbox>
+	</object>
+</annotation>

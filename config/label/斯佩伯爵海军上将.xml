@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ship</folder>
+	<filename>斯佩伯爵海军上将.png</filename>
+	<path>D:\document\idea\blhx-wiki-mirai-plugin\data\blhx-wiki\image\ship\斯佩伯爵海军上将.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>849</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>282</xmin>
+			<ymin>65</ymin>
+			<xmax>572</xmax>
+			<ymax>653</ymax>
+		</bndbox>
+	</object>
+</annotation>

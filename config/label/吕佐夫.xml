@@ -1,0 +1,26 @@
+<annotation>
+	<folder>123</folder>
+	<filename>吕佐夫.png</filename>
+	<path>C:\Users\SongShuquan\Desktop\123\吕佐夫.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1891</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ship</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>887</xmin>
+			<ymin>647</ymin>
+			<xmax>1242</xmax>
+			<ymax>1492</ymax>
+		</bndbox>
+	</object>
+</annotation>

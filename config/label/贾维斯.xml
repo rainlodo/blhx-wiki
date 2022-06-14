@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ship</folder>
+	<filename>贾维斯.png</filename>
+	<path>C:\Users\SongShuquan\Desktop\ship\贾维斯.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1816</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ship</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>865</xmin>
+			<ymin>603</ymin>
+			<xmax>1412</xmax>
+			<ymax>1574</ymax>
+		</bndbox>
+	</object>
+</annotation>

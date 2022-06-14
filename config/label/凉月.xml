@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ship</folder>
+	<filename>凉月.png</filename>
+	<path>E:\Document\IDEA\untitled\data\ship\凉月.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1972</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>494</xmin>
+			<ymin>341</ymin>
+			<xmax>1465</xmax>
+			<ymax>1634</ymax>
+		</bndbox>
+	</object>
+</annotation>

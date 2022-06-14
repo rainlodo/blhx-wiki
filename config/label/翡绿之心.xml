@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ship</folder>
+	<filename>翡绿之心.png</filename>
+	<path>D:\document\idea\blhx-wiki-mirai-plugin\data\blhx-wiki\image\ship\翡绿之心.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>956</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>176</xmin>
+			<ymin>128</ymin>
+			<xmax>584</xmax>
+			<ymax>760</ymax>
+		</bndbox>
+	</object>
+</annotation>

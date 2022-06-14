@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Desktop</folder>
+	<filename>海天.png</filename>
+	<path>C:\Users\weimi\Desktop\海天.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2004</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ship</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>680</xmin>
+			<ymin>347</ymin>
+			<xmax>1451</xmax>
+			<ymax>1222</ymax>
+		</bndbox>
+	</object>
+</annotation>

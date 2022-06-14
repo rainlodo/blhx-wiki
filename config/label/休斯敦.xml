@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ship</folder>
+	<filename>休斯敦.png</filename>
+	<path>E:\Document\IDEA\untitled\data\ship\休斯敦.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>890</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>78</xmin>
+			<ymin>1</ymin>
+			<xmax>749</xmax>
+			<ymax>838</ymax>
+		</bndbox>
+	</object>
+</annotation>

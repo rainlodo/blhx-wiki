@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ship</folder>
+	<filename>司战女神.png</filename>
+	<path>C:\Users\SongShuquan\Desktop\ship\司战女神.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1822</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ship</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>559</xmin>
+			<ymin>125</ymin>
+			<xmax>1253</xmax>
+			<ymax>1722</ymax>
+		</bndbox>
+	</object>
+</annotation>

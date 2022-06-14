@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ship</folder>
+	<filename>初霜.png</filename>
+	<path>E:\Document\IDEA\untitled\data\ship\初霜.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>929</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>375</xmin>
+			<ymin>73</ymin>
+			<xmax>733</xmax>
+			<ymax>1006</ymax>
+		</bndbox>
+	</object>
+</annotation>

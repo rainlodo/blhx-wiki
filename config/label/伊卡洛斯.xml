@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ship</folder>
+	<filename>伊卡洛斯.png</filename>
+	<path>E:\Document\IDEA\untitled\data\ship\伊卡洛斯.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1400</width>
+		<height>1171</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>273</xmin>
+			<ymin>41</ymin>
+			<xmax>1063</xmax>
+			<ymax>1009</ymax>
+		</bndbox>
+	</object>
+</annotation>

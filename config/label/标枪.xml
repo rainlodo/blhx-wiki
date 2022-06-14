@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ship</folder>
+	<filename>标枪.png</filename>
+	<path>D:\document\idea\blhx-wiki-mirai-plugin\data\blhx-wiki\image\ship\标枪.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1020</width>
+		<height>992</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>205</xmin>
+			<ymin>49</ymin>
+			<xmax>811</xmax>
+			<ymax>992</ymax>
+		</bndbox>
+	</object>
+</annotation>

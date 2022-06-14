@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ship</folder>
+	<filename>不知火.png</filename>
+	<path>E:\Document\IDEA\untitled\data\ship\不知火.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>580</width>
+		<height>1023</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>42</xmin>
+			<ymin>126</ymin>
+			<xmax>552</xmax>
+			<ymax>981</ymax>
+		</bndbox>
+	</object>
+</annotation>

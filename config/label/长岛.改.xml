@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ship</folder>
+	<filename>长岛.改.png</filename>
+	<path>D:\document\idea\blhx-wiki-mirai-plugin\data\blhx-wiki\image\ship\长岛.改.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1023</width>
+		<height>1015</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>82</xmin>
+			<ymin>7</ymin>
+			<xmax>817</xmax>
+			<ymax>1015</ymax>
+		</bndbox>
+	</object>
+</annotation>
