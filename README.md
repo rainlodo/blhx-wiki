@@ -64,7 +64,7 @@
 
   ![输入图片说明](doc/SharedScreenshot.jpg)
 
-- 输入`git clone https://gitee.com/arisaka-iris/blhx-wiki.git `
+- 输入`git clone https://github.com/DK09/blhx-wiki.git`
 
   ![输入图片说明](doc/QQ图片20220206103250.png)
 
