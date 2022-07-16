@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ship</folder>
+	<filename>布雷斯特.png</filename>
+	<path>C:\Users\weimi\Desktop\ship\布雷斯特.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1655</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>860</xmin>
+			<ymin>698</ymin>
+			<xmax>1175</xmax>
+			<ymax>1157</ymax>
+		</bndbox>
+	</object>
+</annotation>

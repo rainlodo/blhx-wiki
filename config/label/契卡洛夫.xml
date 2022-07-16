@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ship</folder>
+	<filename>契卡洛夫.png</filename>
+	<path>C:\Users\weimi\Desktop\ship\契卡洛夫.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1343</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>811</xmin>
+			<ymin>361</ymin>
+			<xmax>1216</xmax>
+			<ymax>1091</ymax>
+		</bndbox>
+	</object>
+</annotation>
