@@ -1,6 +1,6 @@
 # 碧蓝航线wiki群聊机器人插件数据文件
 
-插件地址：https://gitee.com/arisaka-iris/blhx-wiki-mirai-plugin
+插件地址：https://github.com/rainlodo/blhx-wiki-mirai-plugin
 
 此数据请放在data目录下，如下图所示
 
@@ -52,7 +52,7 @@
 
 ### 2.下载插件jar包
 
-- 下载本项目最新[jar包](https://gitee.com/arisaka-iris/blhx-wiki-mirai-plugin/releases)，放在MCL目录的plugin下
+- 下载本项目最新[jar包](https://github.com/rainlodo/blhx-wiki-mirai-plugin/releases/)，放在MCL目录的plugin下
 
   ![输入图片说明](doc/QQ%E6%88%AA%E5%9B%BE20220205164834.png)
 
